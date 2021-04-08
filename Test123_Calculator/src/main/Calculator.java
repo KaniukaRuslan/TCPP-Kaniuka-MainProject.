@@ -25,6 +25,6 @@ class CalculatorFrame extends JFrame {
         setLocationRelativeTo(null);
     }
 	public void v() {
-		
+		System.out.print("Code");
 	}
 }
