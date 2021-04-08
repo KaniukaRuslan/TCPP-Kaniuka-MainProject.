@@ -17,11 +17,14 @@ public class Calculator implements Runnable {
 class CalculatorFrame extends JFrame {
 
 	public CalculatorFrame() {
-        setTitle("Калькулятор");
+        setTitle("РљР°Р»СЊРєСѓР»СЏС‚РѕСЂ");
         UserInterface panel = new UserInterface();
         add(panel);
         pack();
         setSize(350,350);
         setLocationRelativeTo(null);
     }
+	public void v() {
+		
+	}
 }
