@@ -26,6 +26,6 @@ class CalculatorFrame extends JFrame {
     }
 	public void v() {
 		System.out.print("Code");
-		// Comment from IDE
+		// Comment from browser
 	}
 }
